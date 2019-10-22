@@ -16,4 +16,4 @@ version log
 
 1.0 - 19.10 - CRUD function, paging
 
-2.0 - 19.11 - Member contorl
+2.0 - 19.11 - Member control
